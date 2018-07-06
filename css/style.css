@@ -90,3 +90,13 @@ body  {
   width: 75px;
   margin: 25px 0 10px;
 }
+
+.nav-item  {
+  margin: 10px 16px;
+}
+
+.navbar-brand img {
+  height: 46px;
+  margin-right: 8px;
+  width: 46px;
+}
